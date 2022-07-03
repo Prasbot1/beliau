@@ -17,7 +17,7 @@ second: 'numeric'
 
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
-}global.owner = ['6285974899229'] // Put your number here
+}global.owner = ['6289666747744'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = JSON.parse(fs.readFileSync(`./src/premium.json`))
 global.APIs = { // API Prefix
@@ -66,20 +66,20 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'By'
-global.author = 'RhaynaBotz'
+global.author = 'XyuziBotz'
 
 
 
 
 
 ig: '-'
-global.wm = 'RhaynaBotz'
+global.wm = 'XyuziBotz'
 global.watermark = wm
 global.botdate = '╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────'
 global.media = 'https://telegra.ph/file/e001198ced5650ef53d47.jpg'
 global.instagram = '-'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Wait a Minute Second.*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
